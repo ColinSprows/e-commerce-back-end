@@ -14,7 +14,7 @@ Category.init(
     },
     category: {
       type: DataTypes.STRING,
-      allowNull: false,
+      // allowNull: false,
     },
     // define columns
   },
